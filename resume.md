@@ -1,9 +1,7 @@
 # Basic Information
 
 * Name: Kevin Rocker
-* Email: kevin.j.rocker@gmail.com
-* Phone Number: 704-960-5118
-* Address: Charlotte, NC
+* Location: Charlotte, NC
 * GitHub: krocker34
 
 # Profile
@@ -14,10 +12,6 @@ Energetic and creative programmer, currently developing a professional skill-set
 
 ## Longer Version
 
-### Old
-I am a former student of UNC Chapel Hill and QC analyst at Physician’s Choice Laboratory services. Working in both a clinical lab and a university research environment has ensured a strong understanding of scientific principals and methodology. This includes working with analytical chemistry instruments and large sets of scientific data. I actively seek out new information to complement my existing skills, with a focus on data analysis and machine learning. I am looking for a position with a combination of statistics, data science, and quality related opportunities that can make use of both scientific and computational experience.
-
-### New
 I have experience working in both academic research and industry. In both of these settings I've brought a knack for automation, process improvement, and communication between technical and non-technical individuals. I combine a strong grounding in scientific and rational thinking with the ability to break problems down into small, manageable chunks that are easily translated to a computer. I am actively looking to build my skills further in the fields of web development, machine learning, and automation. Currently, I'm filling out some old gaps in my skill set, especially around deployment, production environments, and version control, with the goal of finding professional opportunities to hone these skills even further.
 
 # Experience
